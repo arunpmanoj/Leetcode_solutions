@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0189-rotate-array) |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0344-reverse-string) |
 ## Binary Search
