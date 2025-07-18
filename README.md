@@ -21,6 +21,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0344-reverse-string) |
 ## Binary Search
@@ -62,6 +63,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
