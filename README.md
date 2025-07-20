@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0189-rotate-array) |
 ## Array
 |  |
@@ -31,6 +32,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1904-second-largest-digit-in-a-string) |
@@ -51,6 +53,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0229-majority-element-ii](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [1904-second-largest-digit-in-a-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1904-second-largest-digit-in-a-string) |
 ## Sorting
