@@ -19,6 +19,7 @@
 | [0189-rotate-array](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0414-third-maximum-number) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
