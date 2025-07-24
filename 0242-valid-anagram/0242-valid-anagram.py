@@ -2,7 +2,6 @@ class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         seen1 = {}
         seen2 = {}
-        cnt=1
         for ch in s:
             if ch in seen1:
                 seen1[ch] +=1 
