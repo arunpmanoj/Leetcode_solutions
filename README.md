@@ -53,6 +53,7 @@
 | [0125-valid-palindrome](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0394-decode-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [3396-valid-word](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/3396-valid-word) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0394-decode-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -105,6 +107,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0394-decode-string) |
 ## Trie
 |  |
 | ------- |
