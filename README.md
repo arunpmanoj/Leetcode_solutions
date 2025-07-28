@@ -26,6 +26,7 @@
 | [0229-majority-element-ii](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0414-third-maximum-number) |
+| [0954-maximum-sum-circular-subarray](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Two Pointers
 |  |
@@ -72,6 +73,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0152-maximum-product-subarray) |
+| [0954-maximum-sum-circular-subarray](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0954-maximum-sum-circular-subarray](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -142,4 +145,12 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
