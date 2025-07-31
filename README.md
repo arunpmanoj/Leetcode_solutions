@@ -8,6 +8,7 @@
 | [0013-roman-to-integer](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0189-rotate-array) |
+| [0415-add-strings](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0415-add-strings) |
 ## Array
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0383-ransom-note](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0394-decode-string) |
+| [0415-add-strings](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0415-add-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [3396-valid-word](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/3396-valid-word) |
@@ -143,6 +145,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0415-add-strings) |
 ## Sliding Window
 |  |
 | ------- |
