@@ -9,6 +9,7 @@
 | [0067-add-binary](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0415-add-strings) |
 ## Array
 |  |
@@ -155,6 +156,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0415-add-strings) |
 ## Sliding Window
 |  |
@@ -169,4 +171,8 @@
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
