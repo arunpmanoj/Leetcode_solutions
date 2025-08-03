@@ -1,6 +1,5 @@
 class Solution:
     def wordPattern(self, pattern: str, s: str) -> bool:
-
         d1={}
         d2={}
         s=s.split()
