@@ -14,12 +14,4 @@ class Solution:
                 d2[j]=i
             elif d2[j]!=i:
                 return False
-        return True  
-
-        # cnt=0
-        # for i in range(len(pattern)):
-        #     if pattern[i]=="a" and s[i]=="dog":
-        #         cnt+=1
-        #     if pattern[i]=="b" and s[i]=="cat":
-        #         cnt+=1
-        # return True if cnt==len(pattern) else False
+        return True 
