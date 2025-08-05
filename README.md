@@ -34,6 +34,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0954-maximum-sum-circular-subarray](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1927-maximum-ascending-subarray-sum) |
+| [3790-fruits-into-baskets-ii](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [3790-fruits-into-baskets-ii](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## String
 |  |
 | ------- |
@@ -162,6 +164,7 @@
 | [0067-add-binary](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0415-add-strings) |
+| [3790-fruits-into-baskets-ii](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -181,4 +184,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0258-add-digits) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
