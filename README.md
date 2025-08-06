@@ -75,6 +75,7 @@
 | [0394-decode-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0415-add-strings) |
 | [0782-jewels-and-stones](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0782-jewels-and-stones) |
+| [1297-maximum-number-of-balloons](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [3396-valid-word](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/3396-valid-word) |
@@ -114,6 +115,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0782-jewels-and-stones) |
+| [1297-maximum-number-of-balloons](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1904-second-largest-digit-in-a-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1904-second-largest-digit-in-a-string) |
 ## Sorting
 |  |
@@ -131,6 +133,7 @@
 | [0229-majority-element-ii](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1297-maximum-number-of-balloons](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1297-maximum-number-of-balloons) |
 ## Linked List
 |  |
 | ------- |
