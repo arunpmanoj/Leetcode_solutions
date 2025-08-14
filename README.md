@@ -79,6 +79,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1904-second-largest-digit-in-a-string) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3396-valid-word](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/3396-valid-word) |
 ## Stack
 |  |
