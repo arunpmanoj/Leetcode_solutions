@@ -78,6 +78,7 @@
 | [0782-jewels-and-stones](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1904-second-largest-digit-in-a-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3396-valid-word](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/3396-valid-word) |
@@ -182,6 +183,7 @@
 | [0219-contains-duplicate-ii](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Queue
 |  |
 | ------- |
