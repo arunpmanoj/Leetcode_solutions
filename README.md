@@ -12,6 +12,7 @@
 | [0202-happy-number](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0415-add-strings) |
 ## Array
 |  |
@@ -149,6 +150,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0394-decode-string) |
 ## Trie
 |  |
@@ -168,6 +170,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0067-add-binary) |
+| [0342-power-of-four](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
