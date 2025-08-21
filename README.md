@@ -14,6 +14,7 @@
 | [0326-power-of-three](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0415-add-strings) |
+| [2383-add-two-integers](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/2383-add-two-integers) |
 ## Array
 |  |
 | ------- |
