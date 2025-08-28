@@ -38,6 +38,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1927-maximum-ascending-subarray-sum) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +125,7 @@
 | [0782-jewels-and-stones](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1904-second-largest-digit-in-a-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1904-second-largest-digit-in-a-string) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
 | ------- |
