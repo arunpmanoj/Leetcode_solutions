@@ -14,6 +14,7 @@
 | [0326-power-of-three](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0415-add-strings) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2383-add-two-integers](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/2383-add-two-integers) |
 ## Array
 |  |
@@ -37,6 +38,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0954-maximum-sum-circular-subarray](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
