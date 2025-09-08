@@ -15,6 +15,7 @@
 | [0342-power-of-four](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0415-add-strings) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2383-add-two-integers](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/2383-add-two-integers) |
 ## Array
 |  |
