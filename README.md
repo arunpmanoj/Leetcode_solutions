@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0258-add-digits) |
@@ -74,6 +75,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0290-word-pattern) |
