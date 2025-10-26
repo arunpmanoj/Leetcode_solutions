@@ -39,6 +39,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0932-monotonic-array](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0932-monotonic-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
