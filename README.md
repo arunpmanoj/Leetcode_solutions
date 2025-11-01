@@ -32,6 +32,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0152-maximum-product-subarray) |
+| [0164-maximum-gap](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
@@ -140,6 +141,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0242-valid-anagram) |
@@ -241,4 +243,12 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
