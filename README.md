@@ -94,12 +94,14 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1904-second-largest-digit-in-a-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3396-valid-word](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/3396-valid-word) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0394-decode-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -192,6 +194,7 @@
 | [0067-add-binary](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0415-add-strings) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3790-fruits-into-baskets-ii](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Sliding Window
 |  |
