@@ -46,6 +46,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
