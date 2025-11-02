@@ -17,6 +17,7 @@
 | [0415-add-strings](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0415-add-strings) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2383-add-two-integers](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/2383-add-two-integers) |
 | [3830-find-closest-person](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/3830-find-closest-person) |
 ## Array
@@ -47,6 +48,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -200,6 +202,7 @@
 | [0067-add-binary](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0389-find-the-difference) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Simulation
 |  |
 | ------- |
@@ -273,12 +276,18 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0046-permutations) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
