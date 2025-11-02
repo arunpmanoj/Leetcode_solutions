@@ -45,6 +45,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
@@ -94,6 +95,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1904-second-largest-digit-in-a-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1904-second-largest-digit-in-a-string) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3396-valid-word](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/3396-valid-word) |
@@ -148,6 +150,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0414-third-maximum-number) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Counting
 |  |
 | ------- |
@@ -184,6 +187,7 @@
 | [0053-maximum-subarray](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0954-maximum-sum-circular-subarray](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -251,4 +255,12 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0164-maximum-gap) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+## Quickselect
+|  |
+| ------- |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
