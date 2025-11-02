@@ -28,6 +28,7 @@
 | [0031-next-permutation](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -264,4 +265,8 @@
 |  |
 | ------- |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
