@@ -98,6 +98,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1904-second-largest-digit-in-a-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3396-valid-word](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/3396-valid-word) |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
@@ -269,4 +271,8 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0046-permutations) |
+## Enumeration
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
