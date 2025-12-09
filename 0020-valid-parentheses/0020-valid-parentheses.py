@@ -1,11 +1,17 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        stack = []
-        match = {')': '(', ']': '[', '}': '{'}
-        for char in s:
-            if char in match.values():  
-                stack.append(char)
-            elif char in match:  
-                if not stack or stack.pop() != match[char]:
-                    return False
-        return not stack  
+        s=s.replace(" ","")
+        stk=[]
+        for ele in s:
+            if(ele=='{'):
+                stk.append("}")
+            elif(ele=="("):
+                stk.append(")")
+            elif ele=="[" :
+                    stk.append("]")
+            elif not stk or ele!=stk.pop():#checking stack is empty or the ele is same as popped elemnt
+                return False
+        if stk:
+            return False
+        else:
+            return True
