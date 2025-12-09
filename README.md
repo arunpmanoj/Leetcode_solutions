@@ -62,6 +62,7 @@
 | [0061-rotate-list](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0344-reverse-string) |
@@ -137,6 +138,7 @@
 | [0041-first-missing-positive](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
@@ -177,6 +179,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
