@@ -109,6 +109,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0394-decode-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Dynamic Programming
@@ -290,4 +291,8 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
