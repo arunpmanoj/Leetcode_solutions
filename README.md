@@ -174,6 +174,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0206-reverse-linked-list) |
+| [0707-design-linked-list](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -295,4 +296,5 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0155-min-stack) |
+| [0707-design-linked-list](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
