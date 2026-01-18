@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0189-rotate-array) |
@@ -32,6 +33,7 @@
 | [0041-first-missing-positive](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
