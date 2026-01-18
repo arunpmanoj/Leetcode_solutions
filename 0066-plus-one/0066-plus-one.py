@@ -1,0 +1,7 @@
+class Solution:
+    def plusOne(self, digits: List[int]) -> List[int]:
+        dig=""
+        for i in digits:
+            dig +=str(i)
+        dig=str(int(dig)+1)
+        return  list(map(int, dig))
