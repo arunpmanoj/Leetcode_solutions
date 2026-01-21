@@ -72,6 +72,7 @@
 | [0344-reverse-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
@@ -100,6 +101,7 @@
 | [0383-ransom-note](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0415-add-strings) |
 | [0782-jewels-and-stones](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0782-jewels-and-stones) |
@@ -126,6 +128,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/arunpmanoj/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Greedy
 |  |
